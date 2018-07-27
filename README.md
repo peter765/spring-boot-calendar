@@ -35,7 +35,6 @@ The service will be running at localhost:8080.
 - create calendar model
 - design calendar model to return events associated to calendar
 
-
 **User**
 - create user model
 - design user model to construct attendee lists, find events by user
@@ -44,5 +43,6 @@ The service will be running at localhost:8080.
 - Scheduled Reminders based on added events
 - Token-based security
 - Unit Tests
+- Example scripts to test the API(python, curl, Postman..)
 
 
